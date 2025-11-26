@@ -1,6 +1,4 @@
 # № 1
-from tkinter.filedialog import LoadFileDialog
-
 name = "Lida"
 age = 29
 height = 1.65
